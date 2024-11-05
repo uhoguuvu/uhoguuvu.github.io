@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhoguuvu.github.io/VYq/sitemap_index.txt
+Sitemap: https://uhoguuvu.github.io/Wsh/sitemap_index.txt
+Sitemap: https://uhoguuvu.github.io/krE/sitemap_index.txt
+Sitemap: https://uhoguuvu.github.io/nYt/sitemap_index.txt
